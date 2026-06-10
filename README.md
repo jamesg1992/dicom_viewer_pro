@@ -24,8 +24,6 @@ Download the Windows executable from the **Releases** page of this repository.
 
 No installation required — pure portable executable.
 
-Optional: associate `.dcm` files with the app via the installer (if using the Inno Setup version).
-
 ## Quick Usage Guide
 - **Left mouse**: pan image
 - **Mouse wheel**: zoom in/out
