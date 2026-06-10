@@ -34,7 +34,6 @@ No installation required — pure portable executable.
 ## Technical Notes
 - Built with Python 3.13
 - Uses: pydicom, customtkinter, Pillow, numpy, fpdf2
-- Single-file Windows executable via PyInstaller (`--onefile`)
 
 ## Roadmap
 
